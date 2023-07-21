@@ -1,0 +1,3 @@
+# The PowleyPharma Website #
+## This [website](https://www.powleypharma.com) is hosted by me, but the creation of which was a collaboration! ##
+Given my upcoming pharmacy pre-registration exam, I collaborated with three others to create a web and mobile revision app, featuring a quiz with exam-style questions at an affordable price. My primary role was to create and accuracy check questions written, before being added to the database. As the project progressed, my role developed into marketing and public relations. The website has been visited by hundreds of students, with very positive feedback, and our app is growing in popularity daily. 
